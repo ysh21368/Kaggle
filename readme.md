@@ -6,15 +6,24 @@
 
 ### 마스터 달성 필수 요구사항
 
-1. **Competition Medals**
-   - Gold 1개 (상위 1%)
-   - 총 4개의 medals (Gold/Silver/Bronze)
-   - 대회별 최소 참가 인원 150명 이상
+1. **Competition Medals** 
+- 대회 수상 (3개)
+   - Gold 1개
+   - Silver 2개
 
-2. **Notebook Medals**
-   - 5개의 medals 획득
-   - 노트북당 최소 15표 이상 필요  
+2. **Datasets** (5개) 
+- 메달은 공개된 데이터셋의 인기도와 품질에 따라 부여됩니다.
+   - Gold 1개
+   - Silver 4개
 
+3. **Notebooks** (10개)
+- 커뮤니티 투표
+   - Silver 10개
+
+4. **Discussion** (50개)
+-  토론 게시물의 유용성에 대한 커뮤니티 평가
+   - Silver 50개
+   
 ---
 
 ### 주간 미팅 체크포인트
